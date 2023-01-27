@@ -1,10 +1,10 @@
 <h1 align="center">HARK! 👋,Pray, lend thine ears for I am :ear:</h1>
 <h3 align="center">Murat a developer of games </h3>
-
-<h3 align="left">Currently working on mobile games development via Unity</h3>
-<h3 align="left">I am a professional game developer with over 3 years of experience under my belt.</h3>
-
-💬 Can ask me anything!
+<br\><br\>
+<h4 align="left">Currently working on mobile games development via Unity</h4>
+<h4 align="left">I am a professional game developer with over 3 years of experience under my belt.</h4>
+<br\>
+💬 Can ask me anything!<br\>
 📫 Reach my mail ()=> orhanmuratozel@gmail.com
 
 <p align="left">
