@@ -2,8 +2,8 @@
 <h3 align="center">Murat a developer of games </h3>
 <br> <br> 
 <p>
-<b>:computer:Currently working on mobile games development via Unity<br> 
-:technologist: I am a professional game developer with over 3 years of experience under my belt.</b>
+<b>:joystick:Currently working on mobile games development via Unity<br> 
+:adult: I am a professional game developer with over 3 years of experience under my belt.<br>
 💬 Can ask me anything!<br> 
 📫 Reach my mail ()=> orhanmuratozel@gmail.com
 <br>
