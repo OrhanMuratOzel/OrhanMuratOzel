@@ -1,4 +1,4 @@
-<h1 align="center">HARK! 👋,Pray, lend thine ears for I am :ear:</h1>
+<h1 align="center">HEYY! 👋,Pray, lend thine ears for I am :ear:</h1>
 <h3 align="center">Murat a developer of games </h3>
 <br> <br> 
 <p>
